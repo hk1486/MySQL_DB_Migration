@@ -4,7 +4,7 @@ import time
 
 import migrate_module
 
-# Source DB 개발팀 운영서버 177
+# Source DB 
 src_host = "1234.1234"
 src_user = "test"
 src_password = quote_plus("여기에 비밀번호 입력") # DB비번에 골뱅이를 인식해주기 위해 quote_plus 사용
